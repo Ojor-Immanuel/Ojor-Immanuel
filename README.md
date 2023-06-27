@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ojor-Immanuel
 - 👀 I’m interested in creating and innovating technological products for man's use and benefit
-- 🌱 I’m currently learning Robotics, Full-stack development, and Automobile diagnostic & repair. 
+- 🌱 I’m currently learning Robotics, Machine Learning & Artificial Intelligence, and Automobile diagnostic & repair. 
 - 💞️ I’m looking to collaborate on making and providing technological solutions.
 - 📫 How to reach me ojorimman@outlook.com
 
